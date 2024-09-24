@@ -1,3 +1,51 @@
 <resources>
-    <string name="app_name">Navegacion</string>
+    <string name="app_name">Lab4UI</string>
+    <string name="settings_title">Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email_address">Email Address</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="help_feedback">Help &amp; Feedback</string>
+    <string name="about">About</string>
+    <string name="troubleshooting_tips">Troubleshooting tips and guides</string>
+    <string name="app_information">App information and documents</string>
+    <string name="logout">Logout</string>
+
+
+    //Textos de la primer pantalla
+    <string name="DESTACADOS">DESTACADOS</string>
+    <string name="Service_now">Service now</string>
+    <string name="Actualidad_UVG">Actualidad UVG</string>
+    <string name="Servicios_Recursos">SERVICIOS Y RECURSOS</string>
+    <string name="directorioEstudiantiles">Directorio de Servicios Estudiantiles</string>
+    <string name="PortalBiblioUVG">Portal Web Bibliotecas UVG</string>
+    <string name="Campus_Central">Campus Central</string>
+
+    //Textos de la segunda pantalla
+    <string name="My_profile">My profile</string>
+    <string name="My_Campus">My Campus</string>
+    <string name="My_Friends">My Friends</string>
+    <string name="My_Calendar">My Calendar</string>
+    <string name="My_Courses">My Courses</string>
+    <string name="My_Grades">My Grades</string>
+    <string name="My_Groups">My Groups</string>
+    <string name="My_Upcoming_Events">My Upcoming Events</string>
+    <string name="My_Name">CHRISTIAN ECHEVERRRIA RAMIREZ</string>>
+
+    //Textos cuarta pantalla
+    <string name="Emergency_Contacts">Emergency Contacts</string>
+    <string name="Emergency">Emergencias</string>
+    <string name="Call_1">Call 5978-1736</string>
+    <string name="Call_2">Call 2507-1500 ex 21312</string>
+    <string name="Clinic">Clinica UVG</string>
+    <string name="Text1">Si se presenta un incidente o un percance por favor marca el numero de emergencia y rapidamente te apoyamos</string>
+    <string name="Text2">La clinica UVG, presta los siguientes servicios:
+    -Atención a Emergencias
+    -Atención a Primaria a Enfermedades Comunes
+    -Plan Educacional sobre Enfermedades
+
+        Horario de Atencion: 7:00 a.m a 8:30 p.m
+        Campus Central Edificio F, 119-120.
+    </string>
+
 </resources>
